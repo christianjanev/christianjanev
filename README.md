@@ -15,12 +15,13 @@ email: christianjanev7@gmail.com
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 December 2023 - To: 07 January 2024
+From: 01 January 2024 - To: 08 January 2024
 
-TypeScript   9 hrs 5 mins    ████████████████████████▒   97.13 %
-Git Config   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
-Other        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+TypeScript   6 hrs 45 mins   ███████████████████████▓░   94.32 %
+TSConfig     15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
+Other        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
