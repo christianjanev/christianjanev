@@ -15,12 +15,12 @@ email: christianjanev7@gmail.com
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 January 2024 - To: 17 January 2024
+From: 11 January 2024 - To: 18 January 2024
 
-TypeScript   1 hr 13 mins    ████████████████████████░   96.44 %
-Rust         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
-Markdown     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-C            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+TypeScript   1 hr 29 mins    ████████████████████████▒   97.07 %
+Rust         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+C            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
