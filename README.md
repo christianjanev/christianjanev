@@ -15,7 +15,7 @@ email: christianjanev7@gmail.com
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 July 2024 - To: 15 July 2024
+From: 09 July 2024 - To: 16 July 2024
 
 Go            1 hr 16 mins    ██████████████▓░░░░░░░░░░   58.07 %
 C++           46 mins         █████████░░░░░░░░░░░░░░░░   35.35 %
