@@ -15,11 +15,11 @@ email: christianjanev7@gmail.com
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 August 2024 - To: 12 August 2024
+From: 06 August 2024 - To: 13 August 2024
 
-C++           9 mins          █████████████████████▒░░░   85.11 %
-C             1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 %
-Objective-C   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+C++           2 mins          ███████████████░░░░░░░░░░   59.73 %
+C             1 min           █████████░░░░░░░░░░░░░░░░   36.29 %
+Objective-C   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
 ```
 
 <!--END_SECTION:waka-->
